@@ -1,4 +1,4 @@
-markdown# Cloud Task Manager API
+# Cloud Task Manager API
 
 A full-stack task and project management REST API built with **FastAPI** and **MySQL**, featuring JWT authentication, ownership-based authorization, and a clean relational data model. Built as a hands-on cloud engineering portfolio project — designed for deployment on **AWS EC2**.
 
